@@ -16,9 +16,3 @@ Welcome to **Edit Monkey** – a super cool web app that allows you to edit your
 - **OpenCV** 👁️ – For handling image processing tasks such as conversion and grayscale transformation.
 - **Werkzeug** 🔐 – For secure file uploads.
 - **Python** 🐍 – The core programming language used throughout the project.
-
-## 📦 Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/edit-monkey.git
