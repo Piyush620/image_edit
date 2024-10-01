@@ -65,4 +65,4 @@ def edit():
             new = ProcessImage(filename,operation)
             flash(f"your image has been processed and is available <a href='/{new}'target ='_blank'>here</a>")
             return render_template("index.html")
-app.run(host='0.0.0.0', port=5000, debug=False)
+app.run(host='0.0.0.0', port=5000, debug=True)
